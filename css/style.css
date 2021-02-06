@@ -1,12 +1,17 @@
 .ima{
      height: 60vh;
-     background: url('https://mdbootstrap.com/img/Photos/Others/images/5.jpg');
+     background: url('https://mdbootstrap.com/img/Photos/Others/images/13.jpg');/*imgs posibles: 10, 13 */
      background-repeat: no-repeat;
      background-size: cover;
 }
+.vacio{
+    height:8em;
+}
 
-
-
+.logo{
+    margin: auto;
+    width: 75%;
+}
 .top-nav-collapse{
     background: rgba(0, 0, 0, 0.904) 
 }
