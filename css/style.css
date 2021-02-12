@@ -1,18 +1,18 @@
 #ima{
-     height: 60vh;
-     background: url('https://mdbootstrap.com/img/Photos/Others/images/24.jpg');/*imgs posibles: 10, 13 */
+     height: 65vh;
+     background: url('https://mdbootstrap.com/img/Photos/Others/images/31.jpg');/*imgs posibles: 10, 13 */
      background-repeat: no-repeat;
      background-size: cover;
-     -webkit-background-size: cover;
-     -moz-background-size: cover;
-     -o-background-size: cover;
 }
 
 
 .vacio{
-    height:9em;
+    height:6em;
 }
-
+#bioimg{
+	border-radius: 100%;
+	height: 45vh;
+}
 .logo{
     margin: auto;
     width: 85%;
